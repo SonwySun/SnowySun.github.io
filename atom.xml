@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://qingxi220.cn/"/>
-  <updated>2019-12-25T06:53:06.628Z</updated>
+  <updated>2019-12-25T13:07:57.002Z</updated>
   <id>http://qingxi220.cn/</id>
   
   <author>
@@ -17,11 +17,58 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>机器学习参考资料整理</title>
+    <link href="http://qingxi220.cn/2019/12/25/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/"/>
+    <id>http://qingxi220.cn/2019/12/25/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/</id>
+    <published>2019-12-25T13:00:27.000Z</published>
+    <updated>2019-12-25T13:07:57.002Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-Mitchell-T-M-1997-Machine-Learning"><a href="#1-Mitchell-T-M-1997-Machine-Learning" class="headerlink" title="1. Mitchell, T.M. (1997) Machine Learning"></a><a href="http://machine-learning.martinsewell.com/" target="_blank" rel="noopener">1. Mitchell, T.M. (1997) Machine Learning</a></h2><p>非常早的一本介绍机器学习领域核心概念和基本算法的经典书籍之一 </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;1-Mitchell-T-M-1997-Machine-Learning&quot;&gt;&lt;a href=&quot;#1-Mitchell-T-M-1997-Machine-Learning&quot; class=&quot;headerlink&quot; title=&quot;1. Mitchell, T.M. (1
+      
+    
+    </summary>
+    
+    
+      <category term="资料" scheme="http://qingxi220.cn/categories/%E8%B5%84%E6%96%99/"/>
+    
+    
+      <category term="Machine Learning" scheme="http://qingxi220.cn/tags/Machine-Learning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>社区分割louvain算法</title>
+    <link href="http://qingxi220.cn/2019/12/25/%E7%A4%BE%E5%8C%BA%E5%88%86%E5%89%B2louvain%E7%AE%97%E6%B3%95/"/>
+    <id>http://qingxi220.cn/2019/12/25/%E7%A4%BE%E5%8C%BA%E5%88%86%E5%89%B2louvain%E7%AE%97%E6%B3%95/</id>
+    <published>2019-12-25T07:58:14.000Z</published>
+    <updated>2019-12-25T13:02:02.468Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="图算法" scheme="http://qingxi220.cn/categories/%E5%9B%BE%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="spark-graphx" scheme="http://qingxi220.cn/tags/spark-graphx/"/>
+    
+      <category term="scala" scheme="http://qingxi220.cn/tags/scala/"/>
+    
+  </entry>
+  
+  <entry>
     <title>开篇</title>
     <link href="http://qingxi220.cn/2019/12/25/FirstBlog/"/>
     <id>http://qingxi220.cn/2019/12/25/FirstBlog/</id>
     <published>2019-12-25T06:45:47.000Z</published>
-    <updated>2019-12-25T06:53:06.628Z</updated>
+    <updated>2019-12-25T08:07:07.176Z</updated>
     
     <content type="html"><![CDATA[<p>工作五年了，反思自己积累甚少，对职龄的恐惧却与日俱增。    </p><p>废话不多说啦，2020年开始坚持写博客，相信种一棵树最好的时间就是现在。</p>]]></content>
     
@@ -37,8 +84,6 @@
     </summary>
     
     
-    
-      <category term="文章标签" scheme="http://qingxi220.cn/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
