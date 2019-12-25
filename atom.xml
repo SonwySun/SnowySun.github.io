@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://qingxi220.cn/"/>
-  <updated>2019-12-25T13:07:57.002Z</updated>
+  <updated>2019-12-25T14:20:51.513Z</updated>
   <id>http://qingxi220.cn/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>机器学习参考资料整理</title>
-    <link href="http://qingxi220.cn/2019/12/25/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/"/>
-    <id>http://qingxi220.cn/2019/12/25/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/</id>
+    <title>【算法】一文带你梳理机器学习经典算法</title>
+    <link href="http://qingxi220.cn/2019/12/25/ClassicMLAlgorithms/"/>
+    <id>http://qingxi220.cn/2019/12/25/ClassicMLAlgorithms/</id>
+    <published>2019-12-25T13:29:30.000Z</published>
+    <updated>2019-12-25T14:20:51.513Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-KNN"><a href="#1-KNN" class="headerlink" title="1. KNN"></a>1. KNN</h2><h2 id="2-朴素贝叶斯"><a href="#2-朴素贝叶斯" class="headerlink" title="2. 朴素贝叶斯"></a>2. 朴素贝叶斯</h2><h2 id="3-决策树"><a href="#3-决策树" class="headerlink" title="3. 决策树"></a>3. 决策树</h2><p>决策树可以理解为构造一棵树状结构的筛选”管道”，使得样本经过逐层的筛选后，最终落到叶子节点的样本有最高的纯净度。<br>这里筛选是对样本的n维特征进行筛选。</p><p>决策树算法中涉及到的基础理论有信息论中的信息熵。</p><pre><code>信息熵公式的思想1. 事件A的信息量的大小跟事件A出现的概率成反比的关系ps：这里有公式回头补上2. 当两个事件独立时，两个事件的信息量应该等于两个事件各自信息量相加的和ps：这里有公式回头补上3. 信息量的函数应该大于等于0得出信息量函数 information functionEntropy 信息熵是信息量的期望ps：这里有公式回头补上Information Gain 信息增益ps：这里有公式回头补上</code></pre><p>如何分割决策树的节点</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;1-KNN&quot;&gt;&lt;a href=&quot;#1-KNN&quot; class=&quot;headerlink&quot; title=&quot;1. KNN&quot;&gt;&lt;/a&gt;1. KNN&lt;/h2&gt;&lt;h2 id=&quot;2-朴素贝叶斯&quot;&gt;&lt;a href=&quot;#2-朴素贝叶斯&quot; class=&quot;headerlink&quot; titl
+      
+    
+    </summary>
+    
+    
+      <category term="机器学习算法" scheme="http://qingxi220.cn/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="Machine Learning" scheme="http://qingxi220.cn/tags/Machine-Learning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【资料】机器学习参考资料整理</title>
+    <link href="http://qingxi220.cn/2019/12/25/MachineLearningReferences/"/>
+    <id>http://qingxi220.cn/2019/12/25/MachineLearningReferences/</id>
     <published>2019-12-25T13:00:27.000Z</published>
-    <updated>2019-12-25T13:07:57.002Z</updated>
+    <updated>2019-12-25T14:12:48.129Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1-Mitchell-T-M-1997-Machine-Learning"><a href="#1-Mitchell-T-M-1997-Machine-Learning" class="headerlink" title="1. Mitchell, T.M. (1997) Machine Learning"></a><a href="http://machine-learning.martinsewell.com/" target="_blank" rel="noopener">1. Mitchell, T.M. (1997) Machine Learning</a></h2><p>非常早的一本介绍机器学习领域核心概念和基本算法的经典书籍之一 </p>]]></content>
     
@@ -43,11 +69,11 @@
   </entry>
   
   <entry>
-    <title>社区分割louvain算法</title>
-    <link href="http://qingxi220.cn/2019/12/25/%E7%A4%BE%E5%8C%BA%E5%88%86%E5%89%B2louvain%E7%AE%97%E6%B3%95/"/>
-    <id>http://qingxi220.cn/2019/12/25/%E7%A4%BE%E5%8C%BA%E5%88%86%E5%89%B2louvain%E7%AE%97%E6%B3%95/</id>
+    <title>【算法】关系网络在金融风控中的应用系列（一）——社区分割louvain算法</title>
+    <link href="http://qingxi220.cn/2019/12/25/IntroductionOfLouvain/"/>
+    <id>http://qingxi220.cn/2019/12/25/IntroductionOfLouvain/</id>
     <published>2019-12-25T07:58:14.000Z</published>
-    <updated>2019-12-25T13:02:02.468Z</updated>
+    <updated>2019-12-25T13:13:00.776Z</updated>
     
     <summary type="html">
     
